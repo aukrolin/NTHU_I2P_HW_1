@@ -18,9 +18,7 @@
     {
       "path": "gym.tmx",
       "teleport": [
-        { "x": 11, "y": 14, "destination": "map.tmx" },
-        { "x": 12, "y": 14, "destination": "map.tmx" },
-        { "x": 13, "y": 14, "destination": "map.tmx" }
+        { "x": 12, "y": 14, "destination": "map.tmx" }
       ],
       "roaming_mobs": [],
       "enemy_trainers": [],
